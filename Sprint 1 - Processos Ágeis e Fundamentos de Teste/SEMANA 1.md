@@ -1,6 +1,16 @@
 ㅤㅤ
-  # ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSEMANA I
+ <div align="center">
 
+# SEMANA I
+</div>
+
+# índice
+- [Dia 1 - Métodos ágeis/ Git e GitLab /README](#Dia_1_-_Métodos_ágeis/_Git_e_GitLab_/README)
+- [Dia 2 - Manifesto Ágil/ Scrum](#Dia_2_-_Manifesto_Ágil/_Scrum)
+- [Dia 3 - Scrum/ QA dentro de um time ágil](#Dia_3_-_Scrum/_QA_dentro_de_um_time_ágil)
+- [Dia 4 - Fundamentos do teste](#Dia_4_-_Fundamentos_do_teste)
+- [Dia 5 - Pirâmide de testes](#Dia_5_-_Pirâmide_de_testes)
+#
 ## ㅤㅤㅤㅤㅤDia 1 - Métodos ágeis/ Git e GitLab /README
 
 ### **Matriz de Eisenhower**
@@ -60,17 +70,17 @@
     4. Responder a mudanças acima de seguir um plano: Valoriza a capacidade de responder rapidamente a mudanças nos requisitos e no ambiente do projeto.
 * O Manifesto Ágil também estabelece 12 princípios que guiam a abordagem ágil para o desenvolvimento de software.
     1.  Satisfação do cliente através da entrega contínua de software com valor agregado.
-    2. Aceitar mudanças nos requisitos, mesmo em estágios avançados do desenvolvimento
-    3. Entregar software funcional com frequência, com preferência por períodos curtos
-    4. Colaboração constante entre clientes e desenvolvedores durante todo o projeto
-    5. Construir projetos ao redor de indivíduos motivados, dando a eles o ambiente e o suporte necessário
-    6. Utilizar a comunicação face a face como forma primária de comunicação
-    7. Software funcionando é a medida primária de progresso
-    8. Promover o desenvolvimento sustentável, mantendo um ritmo constante
-    9. Atenção contínua à excelência técnica e ao bom design
-    10. Simplicidade - a arte de maximizar a quantidade de trabalho não realizado
-    11. Equipes auto-organizadas são capazes de desenvolver as melhores arquiteturas, requisitos e designs
-    12. Refletir regularmente sobre o trabalho realizado, buscando melhorias contínuas
+    2. Aceitar mudanças nos requisitos, mesmo em estágios avançados do desenvolvimento.
+    3. Entregar software funcional com frequência, com preferência por períodos curtos.
+    4. Colaboração constante entre clientes e desenvolvedores durante todo o projeto.
+    5. Construir projetos ao redor de indivíduos motivados, dando a eles o ambiente e o suporte necessário.
+    6. Utilizar a comunicação face a face como forma primária de comunicação.
+    7. Software funcionando é a medida primária de progresso.
+    8. Promover o desenvolvimento sustentável, mantendo um ritmo constante.
+    9. Atenção contínua à excelência técnica e ao bom design.
+    10. Simplicidade - a arte de maximizar a quantidade de trabalho não realizado.
+    11. Equipes auto-organizadas são capazes de desenvolver as melhores arquiteturas, requisitos e designs.
+    12. Refletir regularmente sobre o trabalho realizado, buscando melhorias contínuas.
 
 ### **Scrum**
 * É um framework ágil de gerenciamento de projetos que se concentra na colaboração, transparência e entrega contínua de valor, abaixo alguns dos principais conceitos da  metodologia:
