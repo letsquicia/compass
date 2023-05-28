@@ -5,12 +5,13 @@
 </div>
 
 # índice
-- [Dia 1 - Métodos ágeis/ Git e GitLab /README](#Dia_1_-_Métodos_ágeis/_Git_e_GitLab_/README)
-- [Dia 2 - Manifesto Ágil/ Scrum](#Dia_2_-_Manifesto_Ágil/_Scrum)
-- [Dia 3 - Scrum/ QA dentro de um time ágil](#Dia_3_-_Scrum/_QA_dentro_de_um_time_ágil)
-- [Dia 4 - Fundamentos do teste](#Dia_4_-_Fundamentos_do_teste)
-- [Dia 5 - Pirâmide de testes](#Dia_5_-_Pirâmide_de_testes)
-#
+- [Dia 1 - Métodos ágeis/ Git e GitLab /README](#dia1)
+- [Dia 2 - Manifesto Ágil/ Scrum](#dia2)
+- [Dia 3 - Scrum/ QA dentro de um time ágil](#dia3)
+- [Dia 4 - Fundamentos do teste](#dia4)
+- [Dia 5 - Pirâmide de testes](#dia5)
+
+# <div id='dia1'>
 ## ㅤㅤㅤㅤㅤDia 1 - Métodos ágeis/ Git e GitLab /README
 
 ### **Matriz de Eisenhower**
@@ -57,9 +58,9 @@
 * Badges são marcadores, pode-se gerar Badges no site shields.io gratuitamente. 
 * É interessante sempre colocar um arquivo de licença, após entender qual a licença ideal para o projeto. 
 * Deve-se explicar de forma concisa o que é o projeto e todas as informações necessárias para total entendimento da aplicação.
-* Para inclusão de imagens no readme é recomendado a utilização de outro repositório com as imagens que serão utilizadas e utiliza-se no formato !.[texto alternativo].(link) 
-#
-## ㅤㅤㅤㅤㅤDia 2 - Manifesto Ágil/ Scrum
+* Para inclusão de imagens no readme é recomendado a utilização de outro repositório com as imagens que serão utilizadas e utiliza-se no formato !.[texto alternativo].(link) </dia1>
+# <div id='dia2'>
+## Dia 2 - Manifesto Ágil/ Scrum
 
 ### **Manifesto Ágil**
 * É um documento que estabelece os valores e princípios fundamentais para o desenvolvimento de software ágil
@@ -98,8 +99,8 @@
 * **Incremento:** É o resultado tangível de um Sprint, que inclui as funcionalidades e melhorias implementadas durante o período.
 * **Revisão da Sprint (Sprint Review):** É uma reunião realizada no final de cada Sprint, na qual a equipe demonstra o trabalho concluído ao Product Owner e aos stakeholders.
 * **Retrospectiva da Sprint (Sprint Retrospective):** É uma reunião realizada após a Revisão da Sprint, onde a equipe reflete sobre o último Sprint, identifica o que funcionou bem e o que pode ser melhorado.
-* Seus pilares consistem em Transparência, Inspeção e Adaptação. *(TIA)*
-#
+* Seus pilares consistem em Transparência, Inspeção e Adaptação. *(TIA)* </div>
+# <div id='dia3'>
 ## ㅤㅤㅤㅤㅤDia 3 - Scrum/ QA dentro de um time ágil
 ### **Scrum, papéis e responsabilidades**
 
@@ -134,8 +135,8 @@
 * O QA integra o time de desenvolvimento, sendo um profissional com maior habilidade em planejar, desenvolver e executar testes.
 * É importante que o QA esteja envolvido desde as fases iniciais do projeto e auxiliando na definição de “pronto”.
 * O QA é responsável por executar os testes necessários para validar a qualidade do produto. Isso pode incluir testes de unidade, testes de integração, testes de regressão e outros tipos de testes relevantes.
-* O QA desempenha um papel fundamental na garantia da qualidade, mas todos os membros da equipe têm a responsabilidade de trabalhar juntos.
-#
+* O QA desempenha um papel fundamental na garantia da qualidade, mas todos os membros da equipe têm a responsabilidade de trabalhar juntos. </div>
+# <div id='dia4'>
 ## ㅤㅤㅤㅤㅤDia 4 - Fundamentos do teste
 ### **Como gerar qualidade**
 * Compreensão clara dos requisitos do produto.
@@ -197,8 +198,8 @@
 * **Execução do teste:** execução dos testes de acordo com o cronograma, execução manual dos testes, coleta de evidências, análise de anomalias, comunicação e registro dos resultados.
     * Teste de confirmação
     * Teste de regressão.
-* **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo.
-#
+* **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo. </div>
+# <div id='dia5'>
 ## ㅤㅤㅤㅤㅤDia 5 - Pirâmide de testes
 ### **A pirâmide de testes**
 * A pirâmide é composta pela base sendo de testes unitários, o meio de teste de integração e a ponta teste end-to-end.
@@ -206,8 +207,9 @@
 * **Teste de Integração:** verifica a interação entre diferentes módulos, componentes ou serviços de um sistema. 
 * **Teste E2E (End-to-End):** é realizado para verificar o comportamento do sistema como um todo, simulando as interações dos usuários finais com o sistema. Ele é projetado para garantir que todas as partes do sistema, incluindo a interface do usuário, os componentes intermediários e os bancos de dados, funcionem corretamente em conjunto. 
 * Normalmente a quantidade de testes de unidade são maiores que a quantidade de testes de integração que são maiores que a quantidade de testes e2e, porém o tempo para rodar é maior nos testes e2e do que nos de integração e unidade.
-![piramide](https://gitlab.com/letsquicia/compass/-/raw/main/images/piramide.JPG)
 
+![piramide](https://gitlab.com/letsquicia/compass/-/raw/main/images/piramide.JPG)
+</div>
 
 
 
