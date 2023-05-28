@@ -11,7 +11,7 @@
 - [Dia 4 - Fundamentos do teste](#dia4)
 - [Dia 5 - Pirâmide de testes](#dia5)
 
-# <div id='dia1'>
+# <div id='dia1'/>
 ## ㅤㅤㅤㅤㅤDia 1 - Métodos ágeis/ Git e GitLab /README
 
 ### **Matriz de Eisenhower**
@@ -58,8 +58,8 @@
 * Badges são marcadores, pode-se gerar Badges no site shields.io gratuitamente. 
 * É interessante sempre colocar um arquivo de licença, após entender qual a licença ideal para o projeto. 
 * Deve-se explicar de forma concisa o que é o projeto e todas as informações necessárias para total entendimento da aplicação.
-* Para inclusão de imagens no readme é recomendado a utilização de outro repositório com as imagens que serão utilizadas e utiliza-se no formato !.[texto alternativo].(link) </dia1>
-# <div id='dia2'>
+* Para inclusão de imagens no readme é recomendado a utilização de outro repositório com as imagens que serão utilizadas e utiliza-se no formato !.[texto alternativo].(link)
+# <div id='dia2'/>
 ## Dia 2 - Manifesto Ágil/ Scrum
 
 ### **Manifesto Ágil**
@@ -99,8 +99,8 @@
 * **Incremento:** É o resultado tangível de um Sprint, que inclui as funcionalidades e melhorias implementadas durante o período.
 * **Revisão da Sprint (Sprint Review):** É uma reunião realizada no final de cada Sprint, na qual a equipe demonstra o trabalho concluído ao Product Owner e aos stakeholders.
 * **Retrospectiva da Sprint (Sprint Retrospective):** É uma reunião realizada após a Revisão da Sprint, onde a equipe reflete sobre o último Sprint, identifica o que funcionou bem e o que pode ser melhorado.
-* Seus pilares consistem em Transparência, Inspeção e Adaptação. *(TIA)* </div>
-# <div id='dia3'>
+* Seus pilares consistem em Transparência, Inspeção e Adaptação. *(TIA)*
+# <div id='dia3'/>
 ## ㅤㅤㅤㅤㅤDia 3 - Scrum/ QA dentro de um time ágil
 ### **Scrum, papéis e responsabilidades**
 
@@ -135,8 +135,8 @@
 * O QA integra o time de desenvolvimento, sendo um profissional com maior habilidade em planejar, desenvolver e executar testes.
 * É importante que o QA esteja envolvido desde as fases iniciais do projeto e auxiliando na definição de “pronto”.
 * O QA é responsável por executar os testes necessários para validar a qualidade do produto. Isso pode incluir testes de unidade, testes de integração, testes de regressão e outros tipos de testes relevantes.
-* O QA desempenha um papel fundamental na garantia da qualidade, mas todos os membros da equipe têm a responsabilidade de trabalhar juntos. </div>
-# <div id='dia4'>
+* O QA desempenha um papel fundamental na garantia da qualidade, mas todos os membros da equipe têm a responsabilidade de trabalhar juntos. 
+# <div id='dia4'/>
 ## ㅤㅤㅤㅤㅤDia 4 - Fundamentos do teste
 ### **Como gerar qualidade**
 * Compreensão clara dos requisitos do produto.
@@ -198,8 +198,8 @@
 * **Execução do teste:** execução dos testes de acordo com o cronograma, execução manual dos testes, coleta de evidências, análise de anomalias, comunicação e registro dos resultados.
     * Teste de confirmação
     * Teste de regressão.
-* **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo. </div>
-# <div id='dia5'>
+* **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo. 
+# <div id='dia5'/>
 ## ㅤㅤㅤㅤㅤDia 5 - Pirâmide de testes
 ### **A pirâmide de testes**
 * A pirâmide é composta pela base sendo de testes unitários, o meio de teste de integração e a ponta teste end-to-end.
