@@ -8,7 +8,7 @@
 * Tem como objetivo reunir todas as tarefas que se tem pra fazer e seja possível priorizar visualmente as tarefas mais importantes.
 * Nem tudo que é importante é urgente e vice versa. 
 * A matriz deve ser dividida conforme imagem abaixo e cada tarefa deve ser alocada na situação que se encontra.
-[IMAGEM]
+![matriz_eisenhower](https://gitlab.com/letsquicia/compass/-/raw/main/images/matriz.JPG)
 
 ### **Kanban**
 * O método Kanban é uma abordagem de gestão de projetos e fluxo de trabalho.
@@ -21,6 +21,8 @@
 * Ajuda a controlar e priorizar o trabalho de forma eficiente.
 * Reduz o desperdício e aumenta a produtividade.
 * É orientada a utilização do site [Miro](https://miro.com/)
+
+![Kanban](https://gitlab.com/letsquicia/compass/-/raw/main/images/kanban.JPG)
 
 ### **Git e GitLab**
 * Utilizaremos durante o programa de bolsas o Gitlab, sendo assim realizei o estudo da ferramenta e deixarei aqui anotações relevantes. 
@@ -151,11 +153,12 @@
 * O QA é responsável pela realização dos testes que podem mostrar falhas causadas por defeitos no software, então a equipe de desenvolvimento deve realizar a localização, análise e correção desse defeito e encaminhar novamente para um novo teste. 
 * O teste que encontra defeitos, cria a oportunidades de melhorar a qualidade do produto.
 * O teste só aumenta a qualidade do software quando é capaz de encontrar e corrigir defeitos e verificar a conformidade dos requisitos funcionais e não funcionais.
+![teste_depuracao](https://gitlab.com/letsquicia/compass/-/raw/main/images/testedepuracao.JPG)
 
 ### **Erro, defeito e falha**
-* Erro: Refere-se a uma ação humana incorreta ou uma interpretação equivocada das especificações, que leva à criação de um defeito no software, pode ocorrer em qualquer fase do desenvolvimento.
-* Defeito: É um estado do software, resultante de um erro no seu desenvolvimento ou implementação. Um defeito pode causar o mau funcionamento ou comportamento indesejado do software.
-* Falha: É um evento que ocorre quando um defeito se manifesta durante a execução do software, resultando em um comportamento incorreto, falha no cumprimento de uma funcionalidade ou no atendimento às expectativas do usuário.
+* **Erro:** Refere-se a uma ação humana incorreta ou uma interpretação equivocada das especificações, que leva à criação de um defeito no software, pode ocorrer em qualquer fase do desenvolvimento.
+* **Defeito:** É um estado do software, resultante de um erro no seu desenvolvimento ou implementação. Um defeito pode causar o mau funcionamento ou comportamento indesejado do software.
+* **Falha:** É um evento que ocorre quando um defeito se manifesta durante a execução do software, resultando em um comportamento incorreto, falha no cumprimento de uma funcionalidade ou no atendimento às expectativas do usuário.
 * Um software pode conter defeitos e nunca falhar.
 
 ### **Os sete princípios de testes**
@@ -193,7 +196,7 @@
 * **Teste de Integração:** verifica a interação entre diferentes módulos, componentes ou serviços de um sistema. 
 * **Teste E2E (End-to-End):** é realizado para verificar o comportamento do sistema como um todo, simulando as interações dos usuários finais com o sistema. Ele é projetado para garantir que todas as partes do sistema, incluindo a interface do usuário, os componentes intermediários e os bancos de dados, funcionem corretamente em conjunto. 
 * Normalmente a quantidade de testes de unidade são maiores que a quantidade de testes de integração que são maiores que a quantidade de testes e2e, porém o tempo para rodar é maior nos testes e2e do que nos de integração e unidade.
-
+![piramide](https://gitlab.com/letsquicia/compass/-/raw/main/images/piramide.JPG)
 
 
 
