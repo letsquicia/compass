@@ -12,12 +12,11 @@ public class App {
         System.out.println("Seu idioma é: ");
         System.out.println(loc.getDisplayLanguage(loc));
 
-        /*
+        /* Não funcionou, analisar
         yhToolkit t = Toolkit.getDefaultToolkit();
         Dimension d = t.getScreenSize();
         System.out.println( "A resolução do seu sistema é: " + d.width +" X " + d.height);    
         */
     
-        System.out.println("bah");
     }
 }
