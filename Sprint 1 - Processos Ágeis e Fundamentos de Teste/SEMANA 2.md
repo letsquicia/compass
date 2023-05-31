@@ -58,3 +58,38 @@
 * **Teste da caixa-branca:** Considera aspectos internos do software (código). Teste e cobertura de sentença, teste e cobertura de decisão. 100% de cobertura de decisão, garante 100% de cobertura de sentença, mas NÃO vice-versa
 
 
+## ㅤㅤㅤㅤㅤDia 7 e 8 - Java 
+O sétimo e oitavo dia do projeto foram separados para realização de projetos praticos em Java, é possível visualiza-los na pasta ["Exercícios Java"](https://gitlab.com/letsquicia/compass/-/tree/main/Sprint%201%20-%20Processos%20%C3%81geis%20e%20Fundamentos%20de%20Teste/Exerc%C3%ADcios%20Java) desse repositório. 
+
+## ㅤㅤㅤㅤㅤDia 9 - CiberSecurity 
+* phishing tem crescido 99,23% ao ano no Brasil, não clicar em links desconhecidos.
+* Ameaças de wifi doméstico:
+    * Sequestro de DNS
+    * Botnets e Proxy
+    * Monitoramento de tráfego
+    * Vazamento de dados pessoais e senhas
+* **OWASP (Open Web Application Security Project)** é uma organização sem fins lucrativos.
+* Seu objetivo é melhorar a segurança de software e aplicativos da web.
+* A OWASP é conhecida pela lista OWASP Top 10, que destaca os principais riscos de segurança em aplicativos da web.
+* A organização fornece recursos, ferramentas e diretrizes de segurança gratuitamente.
+* Eles promovem a conscientização e o desenvolvimento de software seguro.
+* A colaboração é fundamental, com uma comunidade global de especialistas contribuindo.
+* A OWASP busca mitigar riscos e proteger aplicativos contra ameaças e ataques.
+* OWASP API Security é um projeto da OWASP que se concentra na segurança de interfaces de programação de aplicativos (APIs).
+* O projeto fornece orientações e recursos para garantir a segurança das APIs.
+* Aborda tópicos como autenticação, autorização, proteção contra ataques de injeção, gerenciamento de tokens de acesso e validação de entradas.
+* Identifica e destaca as principais vulnerabilidades comuns em APIs.
+* É desenvolvido pela comunidade e permite a colaboração de especialistas em segurança de API.
+* Dicas de segurança digital para o dia a dia:
+    * Boas senhas.
+    * Uso de gerenciador de senhas.
+    * Múltiplos fatores de autenticação. 
+    * Cuidados com phishing.
+    * Bom antivirus. 
+    * Manter softwares atualizados.
+    * Realização de backups.
+    * Segurança nos navegadores usados.
+    * Cuidar transações bancárias. 
+
+
+
