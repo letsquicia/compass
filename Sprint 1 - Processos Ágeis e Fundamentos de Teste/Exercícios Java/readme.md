@@ -2,11 +2,9 @@
 
 <img src="https://gitlab.com/letsquicia/compass/-/raw/main/images/logoexercicios.JPG" width="600px"/>
 <br>
-<br>
 </div>
 
 <h3 align = "center">
-
 Seja bem-vindo(a) à pasta dedicada aos exercícios propostos durante a sprint 1 do programa de bolsas da Compass UOL. Aqui, você encontrará uma organização clara dos tópicos estudados, refletidos em cada título do projeto, juntamente com comentários explicativos nos códigos, que oferecem uma melhor compreensão de seu funcionamento.
 <br>
 <br>
