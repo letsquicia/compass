@@ -14,7 +14,7 @@ Seja bem-vindo(a) à pasta dedicada aos exercícios propostos durante a sprint 1
 #
 </h3>
 
-# 👩‍💻 IDE utilizada
+# 💻 IDE utilizada
 ㅤDurante o desenvolvimento dos exercícios, foi utilizado o Visual Studio Code. Essa poderosa IDE oferece um ambiente de programação completo para o desenvolvimento dos projetos propostos. 
 
 <br>
