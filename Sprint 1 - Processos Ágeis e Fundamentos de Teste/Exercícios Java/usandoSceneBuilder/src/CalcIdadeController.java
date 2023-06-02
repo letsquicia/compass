@@ -23,13 +23,13 @@ public class CalcIdadeController {
     }
 
     @FXML
-    void calcularIdade(ActionEvent event) {
-        int anoNascimento = Integer.parseInt(campoAnoNasc.getText());
-        int anoAtual = LocalDate.now().getYear();
+    void calcularIdade(ActionEvent event) { //método de ação que será executado quando o botão for clicado, recebe um evento ActionEvent como parâmetro
+        int anoNascimento = Integer.parseInt(campoAnoNasc.getText()); //conversão da string do campo de texto para inteiro referente ao ano de nasc
+        int anoAtual = LocalDate.now().getYear(); // pega o ano atua
     
-        int idade = anoAtual - anoNascimento;
+        int idade = anoAtual - anoNascimento; // cria a lógica do calculo
     
-        resultado.setText(String.valueOf(idade));
+        resultado.setText(String.valueOf(idade)); //mostra na tela
     }
 
 }
