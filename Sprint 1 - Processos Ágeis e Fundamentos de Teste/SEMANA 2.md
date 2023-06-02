@@ -4,7 +4,15 @@
 # SEMANA II
 </div>
 
-## ㅤㅤㅤㅤㅤDia 6 - Myers e o prícipio de pareto/ Apostila Teste de Software
+
+## Índice
+- [Dia 6 - Myers e o Princípio de Pareto/ Apostila Teste de Software](#dia-6---myers-e-o-princípio-de-pareto-apostila-teste-de-software)
+- [Dia 7 e 8 - Java](#dia-7-e-8---java)
+- [Dia 9 - CiberSecurity](#dia-9---cibersecurity)
+- [Dia 10 - Apresentação do challenge, exercícios e versionamento](#dia-10---apresentação-do-challenge-exercícios-e-versionamento)
+
+
+## Dia 6 - Myers e o prícipio de pareto/ Apostila Teste de Software
 
 ### **Myers e o Princípio de Pareto**
 > "Testar é analisar um programa com a intenção de descobrir erros e defeitos."
@@ -58,10 +66,10 @@
 * **Teste da caixa-branca:** Considera aspectos internos do software (código). Teste e cobertura de sentença, teste e cobertura de decisão. 100% de cobertura de decisão, garante 100% de cobertura de sentença, mas NÃO vice-versa
 
 
-## ㅤㅤㅤㅤㅤDia 7 e 8 - Java 
+## Dia 7 e 8 - Java 
 O sétimo e oitavo dia do projeto foram separados para realização de projetos praticos em Java, é possível visualiza-los na pasta ["Exercícios Java"](https://gitlab.com/letsquicia/compass/-/tree/main/Sprint%201%20-%20Processos%20%C3%81geis%20e%20Fundamentos%20de%20Teste/Exerc%C3%ADcios%20Java) desse repositório. 
 
-## ㅤㅤㅤㅤㅤDia 9 - CiberSecurity 
+## Dia 9 - CiberSecurity 
 * phishing tem crescido 99,23% ao ano no Brasil, não clicar em links desconhecidos.
 * Ameaças de wifi doméstico:
     * Sequestro de DNS
@@ -91,5 +99,17 @@ O sétimo e oitavo dia do projeto foram separados para realização de projetos 
     * Segurança nos navegadores usados.
     * Cuidar transações bancárias. 
 
+
+## Dia 10 - Apresentação do challenge, exercícios e versionamento
+* **O que funcionou?** <br>
+Durante essa sprint, tudo o que me propus a fazer funcionou de acordo com as minhas expectativas. Embora algumas tarefas tenham demandado mais tempo do que outras, estou satisfeita com os resultados alcançados. Em particular, estou contente com a criação do repositório, que foi concluída com sucesso.
+
+
+* **O que precisa mudar?** <br>
+Identifiquei a necessidade de melhorar a administração do tempo durante a sprint. É importante que eu tenha uma maior organização e cautela para equilibrar todas as tarefas de forma mais eficiente, evitando assim o estresse desnecessário.
+
+
+* **Quais conteúdos tiveram mais dificuldade?** <br>
+Durante a sprint, encontrei mais dificuldades na resolução de problemas relacionados à compilação dos códigos do que no entendimento dos conteúdos abordados em si. Como já possuía uma base sólida nos assuntos tratados, enfrentei desafios principalmente no processo prático de compilação e integração do VS Code com o GitLab, pois já possuia a conexão com o GitHub e precisei reconfigura-las.
 
 
