@@ -48,6 +48,12 @@
 * [Exercícios em Java](https://gitlab.com/letsquicia/compass/-/tree/main/Sprint%201%20-%20Processos%20%C3%81geis%20e%20Fundamentos%20de%20Teste/Exerc%C3%ADcios%20Java) 
 * CyberSecurity
 * Apresentação do Challenge, exercícios & versionamento
+<br>
+<br>
+
+## ❗ Pendências 
+* Descobrir o motivo dos índices dos readmes não funcionarem após a realização do commit, pois na IDE do GitLab e no VS Code funcionam corretamente. 
+* Terminar exercícios e desafios propostos da playlist de conteúdos do dia 7 e 8.
 
 
 
