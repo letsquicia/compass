@@ -8,27 +8,28 @@ import javafx.stage.Stage;
 
 public class App extends Application{
     public static void main(String[] args) throws Exception {
-        launch(App.class, args); 
+        launch(App.class, args); //inicializando JavaFX
     }
 
 
-    @Override
+    @Override // a utilização da anotação @Override é opcional nesse caso, pois ela é usada quando um método está sobrescrevendo um método da classe pai ou de uma interface, nesse caso não esta. 
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setTitle("Funciona logo!!!!"); 
-        Button botao = new Button("Clica");
+        primaryStage.setTitle("Priemira vez usando JavaFX"); //título da janela
+        Button botao = new Button("Clica"); //criação do botão
         botao.setOnAction(new EventHandler<ActionEvent>() {   
-
-            @Override
-            public void handle(ActionEvent event) {
-                System.out.println("FUNCIONOU!!!!!!!!!!!!!!!"); 
+            
+            //criação do evento de clicar no botão
+            @Override 
+            public void handle(ActionEvent event) { 
+                System.out.println("FUNCIONOU!!!!!!!!!!!!!!!"); //ação realizada após clicar no botão
             }
             
         });
 
         
-        StackPane app = new StackPane();
-        app.getChildren().addAll(botao); 
-        primaryStage.setScene(new Scene(app, 250, 200)); 
-        primaryStage.show(); 
+        StackPane app = new StackPane(); //utilização da classe StacPane para criação do layout
+        app.getChildren().addAll(botao); //inserindo o botão no layout
+        primaryStage.setScene(new Scene(app, 250, 200)); //configurações da tela
+        primaryStage.show(); // roda a exibição
     }
 }
