@@ -203,6 +203,13 @@
     * Teste de regressão.
 * **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo. 
 
+* **Dinâmica em grupo:** Foi realizada a atividade proposta em grupo, com a questão "*Como gerar qualidade nos projetos*" e os seguintes pontos foram levantados:
+    * Presença do QA em todas as etapas.
+    * Visão de consumidor do produto para agregar a equipe.
+    * Planejamento e execução sabendo quais testes devem ser feitos quando e como exatamente.
+    * Construção de relatórios detalhados com todas as informações dos testes realizados.
+    * Uma breve introdução da aula 5, onde abordamos da pirâmide de tipo de testes.
+
 
 ## Dia 5 - Pirâmide de testes
 ### **A pirâmide de testes**
