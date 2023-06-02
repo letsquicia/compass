@@ -5,13 +5,13 @@
 </div>
 
 # índice
-- [Dia 1 - Métodos ágeis/ Git e GitLab /README](#dia1)
-- [Dia 2 - Manifesto Ágil/ Scrum](#dia2)
-- [Dia 3 - Scrum/ QA dentro de um time ágil](#dia3)
-- [Dia 4 - Fundamentos do teste](#dia4)
-- [Dia 5 - Pirâmide de testes](#dia5)
+- [Dia 1 - Métodos ágeis/ Git e GitLab /README](#dia-1---métodos-ágeis-git-e-gitlab-readme)
+- [Dia 2 - Manifesto Ágil/ Scrum](#dia-2---manifesto-ágil-scrum)
+- [Dia 3 - Scrum/ QA dentro de um time ágil](#dia-3---scrum-qa-dentro-de-um-time-ágil)
+- [Dia 4 - Fundamentos do teste](#dia-4---fundamentos-do-teste)
+- [Dia 5 - Pirâmide de testes](#dia-5---pirâmide-de-testes)
 
-# <div id='dia1'/>
+
 ## Dia 1 - Métodos ágeis/ Git e GitLab /README
 
 ### **Matriz de Eisenhower**
@@ -59,7 +59,8 @@
 * É interessante sempre colocar um arquivo de licença, após entender qual a licença ideal para o projeto. 
 * Deve-se explicar de forma concisa o que é o projeto e todas as informações necessárias para total entendimento da aplicação.
 * Para inclusão de imagens no readme é recomendado a utilização de outro repositório com as imagens que serão utilizadas e utiliza-se no formato !.[texto alternativo].(link)
-# <div id='dia2'/>
+
+
 ## Dia 2 - Manifesto Ágil/ Scrum
 
 ### **Manifesto Ágil**
@@ -100,7 +101,8 @@
 * **Revisão da Sprint (Sprint Review):** É uma reunião realizada no final de cada Sprint, na qual a equipe demonstra o trabalho concluído ao Product Owner e aos stakeholders.
 * **Retrospectiva da Sprint (Sprint Retrospective):** É uma reunião realizada após a Revisão da Sprint, onde a equipe reflete sobre o último Sprint, identifica o que funcionou bem e o que pode ser melhorado.
 * Seus pilares consistem em Transparência, Inspeção e Adaptação. *(TIA)*
-# <div id='dia3'/>
+
+
 ## Dia 3 - Scrum/ QA dentro de um time ágil
 ### **Scrum, papéis e responsabilidades**
 
@@ -136,7 +138,8 @@
 * É importante que o QA esteja envolvido desde as fases iniciais do projeto e auxiliando na definição de “pronto”.
 * O QA é responsável por executar os testes necessários para validar a qualidade do produto. Isso pode incluir testes de unidade, testes de integração, testes de regressão e outros tipos de testes relevantes.
 * O QA desempenha um papel fundamental na garantia da qualidade, mas todos os membros da equipe têm a responsabilidade de trabalhar juntos. 
-# <div id='dia4'/>
+
+
 ## Dia 4 - Fundamentos do teste
 ### **Como gerar qualidade**
 * Compreensão clara dos requisitos do produto.
@@ -199,7 +202,8 @@
     * Teste de confirmação
     * Teste de regressão.
 * **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo. 
-# <div id='dia5'/>
+
+
 ## Dia 5 - Pirâmide de testes
 ### **A pirâmide de testes**
 * A pirâmide é composta pela base sendo de testes unitários, o meio de teste de integração e a ponta teste end-to-end.
