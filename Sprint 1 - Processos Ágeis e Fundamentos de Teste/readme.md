@@ -1,6 +1,5 @@
-<div align = "center">
-<img src="https://gitlab.com/letsquicia/compass/-/raw/main/images/sprint1.JPG" width="500px"
-
+<div align="center">
+  <img src="https://gitlab.com/letsquicia/compass/-/raw/main/images/sprint1.JPG" width="500px">
 </div>
 
 ![Badge](https://img.shields.io/badge/Sprint1-Em_Andamento-%237159c1?style=for-the-badge&logo=ghost)
