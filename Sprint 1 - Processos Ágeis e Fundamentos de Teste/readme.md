@@ -48,7 +48,7 @@
 * Myers e o Princípio de Pareto
 * [Exercícios em Java](https://gitlab.com/letsquicia/compass/-/tree/main/Sprint%201%20-%20Processos%20%C3%81geis%20e%20Fundamentos%20de%20Teste/Exerc%C3%ADcios%20Java) 
 * CyberSecurity
-* Apresentação Exercícios & Versionamento
+* Apresentação do Challenge, exercícios & versionamento
 
 
 
