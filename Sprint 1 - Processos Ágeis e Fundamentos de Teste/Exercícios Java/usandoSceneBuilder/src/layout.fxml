@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CalcIdadeController">
+  <children>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+      <children>
+            <Label layoutX="81.0" layoutY="53.0" prefHeight="35.0" prefWidth="325.0" text="Digite o seu ano de nascimento:">
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Label>
+            <TextField fx:id="campoAnoNasc" layoutX="81.0" layoutY="113.0" />
+            <Label layoutX="81.0" layoutY="239.0" text="Sua idade é:">
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Label>
+            <Label fx:id="resultado" layoutX="235.0" layoutY="226.0" prefHeight="58.0" prefWidth="47.0" text="0" textFill="#f80909">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Label>
+            <Button fx:id="botaoCalc" layoutX="253.0" layoutY="113.0" mnemonicParsing="false" onAction="#calcularIdade" text="Calcular" />
+            <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="393.0" layoutY="125.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../Compass%20UOL/imagens/user.JPG" />
+               </image>
+            </ImageView>
+      </children>
+    </AnchorPane>
+  </children>
+</VBox>

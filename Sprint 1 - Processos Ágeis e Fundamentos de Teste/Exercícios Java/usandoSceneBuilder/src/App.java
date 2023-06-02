@@ -14,14 +14,14 @@ public class App extends Application{
     @Override
 public void start(Stage primaryStage) throws Exception {
     FXMLLoader fxmlLoader = new FXMLLoader();  //criação do objeto FXMLLoader para carregar o arquivo FXML
-    URL resource = getClass().getResource("/tela.fxml"); //pega a URL do caminho relativo 
-    fxmlLoader.setLocation(resource); //Define a localiza~çao do arquivo FXML para o FXMLLoader
+    URL resource = getClass().getResource("/layout.fxml"); //pega a URL do caminho relativo 
+    fxmlLoader.setLocation(resource); //Define a localização do arquivo FXML para o FXMLLoader
 
     //construindo estrutura da interface
     Parent app = fxmlLoader.load();
     Scene tela = new Scene(app);
 
-    primaryStage.setTitle("Abriu a janela!!!");
+    primaryStage.setTitle("Olá!!!");
     primaryStage.setScene(tela);
     primaryStage.show();
 }
