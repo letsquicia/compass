@@ -12,7 +12,7 @@
 - [Dia 5 - Pirâmide de testes](#dia5)
 
 # <div id='dia1'/>
-## ㅤㅤㅤㅤㅤDia 1 - Métodos ágeis/ Git e GitLab /README
+## Dia 1 - Métodos ágeis/ Git e GitLab /README
 
 ### **Matriz de Eisenhower**
 * Uma ferramenta de produtividade que ajuda na priorização de tarefas e na tomada de decisões.
@@ -101,7 +101,7 @@
 * **Retrospectiva da Sprint (Sprint Retrospective):** É uma reunião realizada após a Revisão da Sprint, onde a equipe reflete sobre o último Sprint, identifica o que funcionou bem e o que pode ser melhorado.
 * Seus pilares consistem em Transparência, Inspeção e Adaptação. *(TIA)*
 # <div id='dia3'/>
-## ㅤㅤㅤㅤㅤDia 3 - Scrum/ QA dentro de um time ágil
+## Dia 3 - Scrum/ QA dentro de um time ágil
 ### **Scrum, papéis e responsabilidades**
 
 **PAPÉIS:**
@@ -137,7 +137,7 @@
 * O QA é responsável por executar os testes necessários para validar a qualidade do produto. Isso pode incluir testes de unidade, testes de integração, testes de regressão e outros tipos de testes relevantes.
 * O QA desempenha um papel fundamental na garantia da qualidade, mas todos os membros da equipe têm a responsabilidade de trabalhar juntos. 
 # <div id='dia4'/>
-## ㅤㅤㅤㅤㅤDia 4 - Fundamentos do teste
+## Dia 4 - Fundamentos do teste
 ### **Como gerar qualidade**
 * Compreensão clara dos requisitos do produto.
 * Comunicação aberta e contínua com os stakeholders.
@@ -200,7 +200,7 @@
     * Teste de regressão.
 * **Conclusão do teste:** métricas consolidadas, lançamento do software, análise e verificação, melhora do processo. 
 # <div id='dia5'/>
-## ㅤㅤㅤㅤㅤDia 5 - Pirâmide de testes
+## Dia 5 - Pirâmide de testes
 ### **A pirâmide de testes**
 * A pirâmide é composta pela base sendo de testes unitários, o meio de teste de integração e a ponta teste end-to-end.
 * **Teste Unitário:** é o teste mais básico realizado em um software. Ele se concentra na verificação do comportamento de uma unidade isolada de código, como uma função, um método ou uma classe.
