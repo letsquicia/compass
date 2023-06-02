@@ -15,11 +15,12 @@ public class LoginControler {
     private TextField campoSenha;
 
     @FXML
-    void fazerLogin(ActionEvent event) {
-        String usuario = campoUsuario.getText();
-        String senha = campoSenha.getText();
+    void fazerLogin(ActionEvent event) { // Método de ação para o evento de clicar no botão
+        String usuario = campoUsuario.getText(); //armazena o texto inserido no campo usuario
+        String senha = campoSenha.getText(); //armazena o texto inserido no campo senha
 
-        if (usuario.equals("letsquicia") && senha.equals("123456")){
+        //verifica se o usuário e a senha estão corretos
+        if (usuario.equals("letsquicia") && senha.equals("123456")){  //O método equals() verifica se o conteúdo de duas strings é igual.
             System.out.println("Login funcionando!!!!");
         }else {
             System.out.println("Não deu :(");
@@ -27,3 +28,5 @@ public class LoginControler {
     }
 
 }
+
+/* Essa classe é chamada dentro do arquivo FXML, por isso não é necessário instacia-la na classe principal!! :) */
