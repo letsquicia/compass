@@ -2,7 +2,7 @@
   <img src="https://gitlab.com/letsquicia/compass/-/raw/main/images/sprint1.JPG" width="500px">
 </div>
 
-![Badge](https://img.shields.io/badge/Sprint1-Em_Andamento-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Sprint1-Concluida!-%237159c1?style=for-the-badge&logo=ghost)
 
 ## 🔎 Sobre o projeto
 ㅤConsiderei abordar essa sprint como um projeto efetivamente em andamento. Incluí em meu material tópicos que possam me auxiliar ao longo do programa de bolsas, permitindo-me consultar e esclarecer dúvidas relacionadas a todos os conteúdos abordados.
@@ -48,12 +48,7 @@
 * [Exercícios em Java](https://gitlab.com/letsquicia/compass/-/tree/main/Sprint%201%20-%20Processos%20%C3%81geis%20e%20Fundamentos%20de%20Teste/Exerc%C3%ADcios%20Java) 
 * CyberSecurity
 * Apresentação do Challenge, exercícios & versionamento
-<br>
-<br>
 
-## ❗ Pendências 
-* Descobrir o motivo dos índices dos readmes não funcionarem após a realização do commit, pois na IDE do GitLab e no VS Code funcionam corretamente. 
-* Terminar exercícios e desafios propostos da playlist de conteúdos do dia 7 e 8.
 
 
 
