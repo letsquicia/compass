@@ -47,7 +47,7 @@
     * Deve-se testar se o token de usuário é gerado corretamente para vendedores/adm e para usuário comum com suas devidas permissões.
 
 ## Testes candidatos a automação
-A partir dos [fluxos prioritários](https://gitlab.com/letsquicia/compass/-/blob/main/images/Fluxos_Priorit%C3%A1rios.png), segue testes candidatos a automação: 
+A partir dos [fluxos prioritários](https://gitlab.com/letsquicia/compass/-/raw/main/images/Fluxos_Priorit%C3%A1rios.png), segue testes candidatos a automação: 
 * CT_002: Cadastro de um novo usuário com dados corretos;
 * CT_003: Cadastro de um novo usuário com dados em branco;
 * CT_ 004: Combinação de campos inválidos no cadastro;
