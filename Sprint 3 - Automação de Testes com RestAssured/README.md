@@ -41,28 +41,30 @@
 * CTU_006: Cadastrar um novo usuário com o campo ‘nome’ em branco.
 * CTU_007: Cadastrar um novo usuário com o campo ‘e-mail’ em branco.
 * CTU_008: Cadastrar um novo usuário com o campo ‘password’ em branco.
-* CTU_009: Cadastrar um novo usuário com o campo ‘administrador’ em branco.
-* CTU_010: Cadastrar um novo usuário com mais de um campo em branco.
-* CTU_011: Cadastrar um novo usuário com o campo ‘administrador’ com um valor não booleano.
-* CTU_012: Cadastrar um novo usuário com um e-mail já registrado.
-* CTU_013: Cadastrar um novo usuário com e-mail do provedor ‘gmail’.
-* CTU_014: Cadastrar um novo usuário com o e-mail do provedor ‘hotmail’. 
-* CTU_015: Cadastrar um novo usuário com o e-mail sem o caractere ‘@’ para verificar se está obedecendo o padrão válido de e-mails.  
-* CTU_016: Alterar o nome de um cadastro válido por um campo em branco. 
-* CTU_017: Alterar o e-mail de um cadastro válido por um campo em branco.
-* CTU_018: Alterar o password de um cadastro válido por um campo em branco.
-* CTU_019: Alterar o password de um cadastro válido para uma senha menor que 5 caracteres.
-* CTU_020: Alterar o password de um cadastro válido para uma senha maior que 10 caracteres.
-* CTU_021: Alterar o campo administrador para um valor não booleano. 
-* CTU_022: Alterar o e-mail de um cadastro válido para um e-mail do provedor ‘gmail’.
-* CTU_023: Alterar o e-mail de um cadastro válido para um e-mail do provedor ‘hotmail’.
-* CTU_024: Alterar o e-mail de um cadastro para um e-mail já existente em outro cadastro. 
-* CTU_025: Alterar o e-mail de um cadastro válido, para o mesmo e-mail já utilizado.
-* CTU_026: Alterar o e-mail de um cadastro válido, para um e-mail sem o ‘@’ para verificar se está obedecendo o padrão válido de e-mails.  
-* CTU_027: Alterar o cadastro de um usuário via path com um ID inválido e verificar se irá ocorrer o cadastro desse usuário. 
-* CTU_028: Excluir um cadastro válido com carrinho vazio. 
-* CTU_029: Excluir um cadastro válido com produtos no carrinho.
-* CTU_030: Excluir via path com ID invalido um cadastro inexistente. 
+* CTU_009: Cadastrar um novo usuário com uma senha com menos de 5 caracteres.
+* CTu_010: Cadastrar um novo usuário com uma senha com mais de 10 caracteres.
+* CTU_011: Cadastrar um novo usuário com o campo ‘administrador’ em branco.
+* CTU_012: Cadastrar um novo usuário com mais de um campo em branco.
+* CTU_013: Cadastrar um novo usuário com o campo ‘administrador’ com um valor não booleano.
+* CTU_014: Cadastrar um novo usuário com um e-mail já registrado.
+* CTU_015: Cadastrar um novo usuário com e-mail do provedor ‘gmail’.
+* CTU_016: Cadastrar um novo usuário com o e-mail do provedor ‘hotmail’. 
+* CTU_017: Cadastrar um novo usuário com o e-mail sem o caractere ‘@’ para verificar se está obedecendo o padrão válido de e-mails.  
+* CTU_018: Alterar o nome de um cadastro válido por um campo em branco. 
+* CTU_019: Alterar o e-mail de um cadastro válido por um campo em branco.
+* CTU_020: Alterar o password de um cadastro válido por um campo em branco.
+* CTU_021: Alterar o password de um cadastro válido para uma senha menor que 5 caracteres.
+* CTU_022: Alterar o password de um cadastro válido para uma senha maior que 10 caracteres.
+* CTU_023: Alterar o campo administrador para um valor não booleano. 
+* CTU_024: Alterar o e-mail de um cadastro válido para um e-mail do provedor ‘gmail’.
+* CTU_025: Alterar o e-mail de um cadastro válido para um e-mail do provedor ‘hotmail’.
+* CTU_026: Alterar o e-mail de um cadastro para um e-mail já existente em outro cadastro. 
+* CTU_027: Alterar o e-mail de um cadastro válido, para o mesmo e-mail já utilizado.
+* CTU_028: Alterar o e-mail de um cadastro válido, para um e-mail sem o ‘@’ para verificar se está obedecendo o padrão válido de e-mails.  
+* CTU_029: Alterar o cadastro de um usuário via path com um ID inválido e verificar se irá ocorrer o cadastro desse usuário. 
+* CTU_030: Excluir um cadastro válido com carrinho vazio. 
+* CTU_031: Excluir um cadastro válido com produtos no carrinho.
+* CTU_032: Excluir via path com ID invalido um cadastro inexistente. 
 
 ## US_03
 ### Cenários de teste endpoint */produtos*
