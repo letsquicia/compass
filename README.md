@@ -12,6 +12,7 @@ Na [Wiki](https://gitlab.com/letsquicia/compass/-/wikis/home) do projeto será e
 Navegue entre as branchs para ter acesso ao material de cada sprint.
 <br>[pb_sprint1](https://gitlab.com/letsquicia/compass/-/tree/pb_sprint1?ref_type=heads)
 <br>[pb_sprint2](https://gitlab.com/letsquicia/compass/-/tree/pb_sprint2?ref_type=heads)
+<br>[pb_sprint3](https://gitlab.com/letsquicia/compass/-/tree/pb_sprint3/)
 
 </div>
 
