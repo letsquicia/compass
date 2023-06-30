@@ -166,6 +166,8 @@ Localmente no endereço: http://localhost:3000
 * Postman para análise dos cenários. 
 * Local para armazenamento do resultado dos testes.
 * Banco de dados e infraestrutura para desenvolvimento disponibilizados.
+* Visual Studio Code. 
+* Inserção das dependencias do RestAssured, Junit 5, JavaFaker e Jackson Databind em um projeto Maven. 
 
 ## Critérios usados:
 * Os testes devem ser realizados de acordo com a análise de requisitos e critérios estabelecidos nas user stories. 

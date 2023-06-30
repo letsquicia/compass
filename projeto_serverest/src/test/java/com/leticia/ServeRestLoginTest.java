@@ -38,7 +38,7 @@ public class ServeRestLoginTest {
                 .post("/login")
                 .then()
                 .log().all()
-                .statusCode(200) // Verificar se o status code esperado é 200 OK
+                .statusCode(200) 
                 .body("authorization", notNullValue()) // Verificar se o token é retornado corretamente
                 .extract().response();
 

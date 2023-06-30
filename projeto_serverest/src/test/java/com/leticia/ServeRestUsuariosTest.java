@@ -162,7 +162,7 @@ public class ServeRestUsuariosTest {
                 .body("nome", equalTo("Fulano da Silva"))
                 .body("email", equalTo("fulano@qa.com"))
                 .body("nome", not(blankOrNullString())) // verifica se o campo nome está em branco
-                .body("email", matchesRegex("^\\S+@\\S+\\.\\S+$")) // verifica se o email é valido
+                .body("email", matchesRegex("^\\S+@\\S+\\.\\S+$")) // verifica se o email é valido c expressão regular
                 .and()
                 .body("password.length()", greaterThanOrEqualTo(5)) // verifica tamanho da senha
                 .body("password.length()", lessThanOrEqualTo(10))
