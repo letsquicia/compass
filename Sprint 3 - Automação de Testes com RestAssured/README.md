@@ -76,9 +76,9 @@
 * CTP_006: Cadastrar um produto com um usuário autenticado como não administrador. 
 * CTP_007: Cadastrar um produto com o nome já utilizado por outro produto.
 * CTP_008: Cadastrar um produto com o campo ‘nome’ em branco. 
-* CTP_009: Cadastrar um produto com o campo ‘preco’ em branco.
-* CTP_010: Cadastrar um produto e no campo ‘preco’ inserir um valor float. 
-* CTP_011: Cadastrar um produto e no campo ‘preco’ inserir um valor inteiro. 
+* CTP_009: Cadastrar um produto com o campo ‘preço’ em branco.
+* CTP_010: Cadastrar um produto e no campo ‘preço’ inserir um valor float. 
+* CTP_011: Cadastrar um produto e no campo ‘preço’ inserir um valor inteiro. 
 * CTP_012: Cadastrar um produto com o campo ‘descrição’ em branco.
 * CTP_013: Cadastrar um produto com o campo ‘quantidade’ em branco.
 * CTP_014: Cadastrar um produto com o valor 0 no campo ‘quantidade’.
